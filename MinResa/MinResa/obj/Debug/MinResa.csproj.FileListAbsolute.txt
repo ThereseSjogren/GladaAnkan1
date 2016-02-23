@@ -1,0 +1,2 @@
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\MinResa\MinResa\bin\Debug\MinResa.exe.config
+C:\Users\Hamp\Documents\GitHub\GladaAnkan1\MinResa\MinResa\bin\Debug\MinResa.exe.config
